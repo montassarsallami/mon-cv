@@ -1,6 +1,7 @@
 {
   "files": {
-    "main.js": "/mon-cv/static/js/main.4e220d99.js",
+    "main.css": "/mon-cv/static/css/main.58854604.css",
+    "main.js": "/mon-cv/static/js/main.9db19079.js",
     "static/media/chatting-app.jpg": "/mon-cv/static/media/chatting-app.9cdafc4f375b39bc3b9b.jpg",
     "static/media/shopping-cart.jpg": "/mon-cv/static/media/shopping-cart.665ae3228bdb9b81eb08.jpg",
     "static/media/wordpress.png": "/mon-cv/static/media/wordpress.bccb4db966fabb10a115.png",
@@ -14,9 +15,11 @@
     "static/media/css.png": "/mon-cv/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/mon-cv/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/mon-cv/index.html",
-    "main.4e220d99.js.map": "/mon-cv/static/js/main.4e220d99.js.map"
+    "main.58854604.css.map": "/mon-cv/static/css/main.58854604.css.map",
+    "main.9db19079.js.map": "/mon-cv/static/js/main.9db19079.js.map"
   },
   "entrypoints": [
-    "static/js/main.4e220d99.js"
+    "static/css/main.58854604.css",
+    "static/js/main.9db19079.js"
   ]
 }
